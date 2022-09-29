@@ -1,4 +1,4 @@
-<x-layout
+<x-layout>
 
 <div class="space-y-5 lg:space-y-10 lg:space-x-10 mt-8 bg-blue-800 ">
                 <!--  Category -->
