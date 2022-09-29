@@ -1,6 +1,8 @@
 <x-layout>
 
 <div class="space-y-5 lg:space-y-10 lg:space-x-10 mt-8 bg-blue-800 ">
+<body style="font-family: Open Sans, sans-serif">
+<section class="px-6 py-8">
                 <!--  Category -->
                 <div class="relative flex lg:inline-flex items-center bg-gray-100 rounded-xl">
                     <select class="flex-1 appearance-none bg-transparent py-2 pl-3 pr-9 text-sm font-semibold">
@@ -456,4 +458,9 @@
                 </article>
             </div>
         </main>
-</x-layout>
+        </section>
+</body>
+    <x-layout>
+    <header>
+        <div class="space-y-5 lg:space-y-10 lg:space-x-10 mt-8 bg-blue-800 ">
+    
